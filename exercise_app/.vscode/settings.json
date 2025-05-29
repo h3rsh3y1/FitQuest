@@ -1,0 +1,8 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.project.sourcePaths": [
+    "lib/controller/service",
+    "lib/controller"
+  ],
+  "cmake.sourceDirectory": "/Users/harshalghate/Documents/SC2006/FinalProject/finalcode/exercise_app/linux/flutter"
+}
